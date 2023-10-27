@@ -1,3 +1,8 @@
+<p align="center">
+ <strong> 𖤐𖤐𖤐 Credential Thief 𖤐𖤐𖤐 </strong>
+ </p>
+ <p align="center">  <strong> Bored at work? <strong><strong><a href="https://github.com/tukru/Crypt0Morph.py">※ CHAOS ※</a></strong></strong>
+</p> </strong>
 # Reverse-Shell-Credential-Stealing-Python-Script
 we play with fire here.
 Reverse Shell and Credential Stealing Script
@@ -14,8 +19,6 @@ To run the script, follow these steps:
     Navigate to the directory where the script is located.
 
     Execute the following command:
-
-    shell
 
     python3 script.py
 
@@ -55,4 +58,8 @@ Disclaimer
 
 The authors of this script are not responsible for any unauthorized or malicious usage of the provided code. It is the responsibility of the user to ensure compliance with applicable laws and ethical guidelines.
 
-Use this script responsibly, with proper authorization, and for lawful purposes only.
+Use this script responsibly, with proper authorization... if your a bitch
+
+ <p align="center">
+  <strong> Made with ❤️ and chaos <strong><strong> by <a href="https://github.com/tukru">tukru</a></strong></strong>
+</p>
